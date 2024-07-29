@@ -1,0 +1,8 @@
+domains:
+- php-starter-mikdammehdi.wasmer.app
+kind: wasmer.io/App.v0
+name: mikdammehdi-php-starter
+owner: mikdammehdi
+package: .
+scaling:
+  mode: single_concurrency
